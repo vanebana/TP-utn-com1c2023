@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": "Iphone 14 pro",
+        "descripcion": "Diseñado para usuarios que buscan características y rendimiento avanzados. Tiene un diseño elegante y de alta calidad, con materiales premium y una pantalla de alta resolución con tecnología OLED. Además, cuenta con una potente configuración de  cámara, incluyendo múltiples lentes y capacidades de fotografía avanzadas, como zoom óptico mejorado y grabación de video de alta calidad. En términos de rendimiento, el iPhone 14 Pro incluye un procesador más potente y mayor capacidad de almacenamiento en comparación con los modelos estándar. También posee mejoras en la duración de la batería y funciones adicionales como resistencia al agua,carga inalámbrica y conectividad 5G.",
+        "precio": 250000,
+        "categoria": "Cellphone",
+        "id":1,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14pro-202209?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1663611329492"
+    },
+
+    {
+        "nombre": "Iphone 13 mini",
+        "descripcion": "El iPhone 13 mini es la versión compacta y poderosa del último teléfono de Apple. Con su diseño elegante, cuenta con una pantalla Super Retina XDR de 5.4 pulgadas, perfecta para aquellos que prefieren un dispositivo más pequeño. Ofrece un rendimiento excepcional con el chip A15 Bionic, una cámara dual de alta calidad con modo Noche mejorado y grabación de video en Dolby Vision HDR. Además, incluye 5G para una conectividad rápida, una batería de larga duración y la seguridad del reconocimiento facial Face ID. El iPhone 13 mini combina rendimiento, portabilidad y todas las funciones avanzadas del iPhone 13 en un tamaño compacto.",
+        "precio": 230000,
+        "categoria": "Cellphone",
+        "id":2,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13-202209?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1661958176452"
+    },
+
+    {
+        "nombre": "Iphone 12",
+        "descripcion": "El iPhone 12 es un teléfono inteligente de alta gama desarrollado por Apple. Destaca por su elegante diseño de bordes planos y su pantalla Super Retina XDR de 6.1 pulgadas con tecnología OLED, que ofrece colores vibrantes y alto contraste. Equipado con el potente chip A14 Bionic, el iPhone 12 ofrece un rendimiento rápido y fluido. Cuenta con un sistema de doble cámara de 12 MP con modo Noche y grabación de video en Dolby Vision HDR. Además, es compatible con la red 5G para una conectividad ultrarrápida. El iPhone 12 también introduce el MagSafe, un sistema de carga y accesorios magnéticos. Con su combinación de estilo, rendimiento y características avanzadas, el iPhone 12 es una excelente opción para los usuarios que buscan una experiencia premium.",
+        "precio": 200000,
+        "categoria": "Cellphone",
+        "id":3,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone12-202209?wid=340&hei=264&fmt=jpeg&qlt=95&.v=1661958189616"
+    },
+    {
+        "nombre": "Iphone SE",
+        "descripcion":" El iPhone SE es un teléfono compacto pero poderoso de Apple. Con un diseño similar al iPhone 8, cuenta con una pantalla Retina de 4.7 pulgadas y un botón de inicio con Touch ID para desbloquear el dispositivo y realizar pagos seguros. Equipado con el chip A13 Bionic, ofrece un rendimiento rápido y fluido, y es capaz de ejecutar aplicaciones exigentes. La cámara de 12 MP captura fotos y videos de alta calidad, y el iPhone SE también es compatible con el modo Retrato y la iluminación de retrato. Además, ofrece almacenamiento expandible y es compatible con carga inalámbrica. El iPhone SE es una excelente opción para aquellos que buscan un teléfono compacto pero con un gran rendimiento y características de alto nivel.",
+        "precio": 180000,
+        "categoria": "Cellphone",
+        "id":4,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1646415838921"
+
+    },
+     
+    {
+        "nombre": "Macbook Pro 13",
+        "descripcion":"La MacBook Pro de 13 pulgadas es una computadora portátil de alta gama fabricada por Apple. Con su diseño elegante y compacto, ofrece un equilibrio perfecto entre portabilidad y potencia. Equipada con un procesador Intel Core o un chip M1 de Apple, brinda un rendimiento rápido y eficiente. La pantalla Retina de alta resolución muestra imágenes nítidas y colores vibrantes. La MacBook Pro de 13 pulgadas también cuenta con el innovador Touch Bar, una barra táctil contextual que proporciona accesos directos y controles interactivos.Además, ofrece una variedad de opciones de almacenamiento y memoria, así como puertos Thunderbolt 3 para una conectividad rápida y versátil. Con una batería de larga duración, un teclado cómodo y un sistema de altavoces de alta calidad, la MacBook Pro de 13 pulgadas es una opción popular para profesionales creativos, estudiantes y usuarios exigentes que buscan un rendimiento y una experiencia premium en una computadora portátil.",
+        "precio": 700000 ,
+        "categoria": "macbook",
+        "id":5,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-13-202206?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1665082744007"
+
+    },
+    {
+        "nombre": "Mac Mini",
+        "descripcion":"La Mac mini es una computadora de escritorio compacta y potente fabricada por Apple. Ofrece opciones de configuración con procesadores Intel Core o chips M1 de Apple para un rendimiento versátil. Es ideal para aquellos que buscan una estación de trabajo potente en un espacio limitado. La Mac mini es compatible con una amplia gama de monitores y accesorios, lo que permite una configuración personalizada. Cuenta con varios puertos, incluidos USB, Thunderbolt y HDMI, para una conectividad fácil con otros dispositivos. Es perfecta para tareas de productividad, edición de fotos y videos, desarrollo de software o como centro de entretenimiento. En definitiva, la Mac mini es una opción compacta y versátil para usuarios domésticos y profesionales que buscan un excelente rendimiento en un tamaño reducido.",
+        "precio": 300000 ,
+        "categoria": "macbook",
+        "id":6,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-mac-mini-202301?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1670549737872"
+
+    },
+    {
+        "nombre": "Macbook Air",
+        "descripcion":"La MacBook Air es una computadora portátil ligera y potente fabricada por Apple. Con su diseño delgado y elegante, es perfecta para aquellos que necesitan portabilidad sin comprometer el rendimiento. Está equipada con procesadores Intel Core o chips M1 de Apple, brindando un rendimiento rápido y eficiente. La pantalla Retina muestra imágenes nítidas y colores vibrantes. La MacBook Air también cuenta con un teclado cómodo, una batería de larga duración y altavoces de alta calidad. Además, ofrece opciones de almacenamiento y memoria flexibles, así como puertos Thunderbolt 3 para una conectividad versátil. La MacBook Air es una opción popular para estudiantes, profesionales y usuarios que valoran la movilidad y el rendimiento en una computadora portátil.", 
+        "precio": 600000 ,
+        "categoria": "macbook",
+        "id":7,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-air-13-15-202306?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1684262493564"
+
+    },
+    {
+        "nombre": "Apple Whatch Ultra",
+        "descripcion":"La caja de titanio ultrarresistente de 49 mm con botón de acción logra un equilibrio entre el peso, la robustez y la resistencia a la corrosión. La pantalla Retina siempre activa más grande y brillante que se puede leer en las condiciones más duras.Hasta 36 horas de duración de la batería y hasta 60 horas en configuraciones de bajo consumo",
+        "precio": 180000 ,
+        "categoria": "applewatch",
+        "id":8,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-ultra-202209?wid=340&hei=264&fmt=png-alpha&.v=1678733152901"
+
+    },
+    {
+        "nombre": "Apple Whatch Series 8",
+        "descripcion":"Pantalla Retina brillante siempre encendida con un diseño expansivo de borde a borde.La detección de temperatura proporciona estimaciones de ovulación retrospectivas y funciones avanzadas de seguimiento de ciclos.Experimente formas mejoradas de entrenar con la aplicación Workout mejorada",
+        "precio": 100000,
+        "categoria": "applewatch",
+        "id":9,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/watch-card-40-s8-202303?wid=340&hei=264&fmt=jpeg&qlt=95&.v=1676335512343"
+
+    },
+    {
+        "nombre": "Ipad Pro",
+        "descripcion":"El iPad Pro es una línea de tabletas de alta gama fabricada por Apple. Diseñado para usuarios profesionales y creativos, el iPad Pro ofrece un rendimiento y capacidades avanzadas. Está disponible en variantes de pantalla de 11 y 12.9 pulgadas, con tecnología Liquid Retina que brinda imágenes nítidas y colores vibrantes. El iPad Pro cuenta con el potente chip A12Z Bionic o M1 de Apple, lo que proporciona un rendimiento rápido y fluido. Además, cuenta con un sistema de cámaras de alta calidad, soporte para Apple Pencil y el innovador Magic Keyboard con trackpad. También ofrece opciones de almacenamiento ampliables y conectividad 5G en los modelos más recientes. El iPad Pro es una herramienta versátil para el trabajo, la creatividad y el entretenimiento, y es ideal para aquellos que buscan una experiencia de tablet premium y de alto rendimiento.",
+        "precio": 250000,
+        "categoria": "ipad",
+        "id":10,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202210?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1664578794100"
+
+    },
+    {
+        "nombre": "Ipad Air",
+        "descripcion":"El iPad Air es una tableta ligera y potente de Apple. Con su pantalla de 10.9 pulgadas y tecnología Liquid Retina, ofrece una calidad de imagen impresionante. Equipado con el chip A14 Bionic, brinda un rendimiento rápido y eficiente. El iPad Air cuenta con características como Touch ID, soporte para Apple Pencil y conectividad con Magic Keyboard. También ofrece cámaras de alta calidad, opciones de almacenamiento y conectividad versátiles. Es una excelente opción para tareas diarias, productividad y entretenimiento, con acceso a una amplia variedad de aplicaciones en la App Store. En resumen, el iPad Air combina portabilidad, rendimiento y versatilidad en una tableta de alta calidad.",
+        "precio": 180000 ,
+        "categoria": "ipad",
+        "id":11,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-air-202203?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1674662574485"
+
+    },
+    {
+        "nombre": "Ipad Mini",
+        "descripcion":"El iPad mini es una tableta compacta y versátil de Apple. Con una pantalla de 7.9 pulgadas, es perfecto para aquellos que prefieren un tamaño más pequeño y portátil. El iPad mini cuenta con el potente chip A12 Bionic o A15 Bionic en su versión más reciente, lo que garantiza un rendimiento rápido y fluido. Ofrece una pantalla Retina nítida y colores vibrantes. El iPad mini es compatible con Apple Pencil de primera o segunda generación, lo que permite tomar notas y realizar dibujos de manera precisa. También incluye una cámara trasera de alta calidad, cámara frontal FaceTime HD y opciones de almacenamiento ampliables. Es una excelente opción para usuarios que buscan una tableta compacta para consumir contenido, productividad y tareas diarias sobre la marcha.",
+        "precio": 150000,
+        "categoria": "ipad",
+        "id":12,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-ipad-mini-202109?wid=340&hei=264&fmt=p-jpg&qlt=95&.v=1674662574477"
+    },
+    {
+        "nombre": "Magsafe charger",
+        "descripcion":"MagSafe de Apple es una tecnología de carga magnética y accesorios utilizada en dispositivos como los iPhone y MacBook. Con imanes integrados, permite una carga inalámbrica más eficiente y segura al acoplar automáticamente el cargador MagSafe al dispositivo. Además, MagSafe facilita la conexión de accesorios magnéticos como fundas y soportes, brindando una experiencia de uso conveniente. Los imanes garantizan un acoplamiento seguro y estable. La tecnología MagSafe mejora la comodidad al eliminar la necesidad de enchufar cables y asegurar accesorios. En resumen, MagSafe de Apple es una innovadora solución magnética que simplifica la carga y permite una conexión segura y práctica de accesorios en dispositivos compatibles.",
+        "precio": 50000,
+        "categoria": "accesorios",
+        "id":13,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MHXH3?wid=532&hei=582&fmt=png-alpha&.v=1661269793559"
+
+    },
+    {
+        "nombre": "Apple Pencil",
+        "descripcion":"El Apple Pencil es un lápiz stylus diseñado específicamente para dispositivos iPad de Apple. Proporciona una experiencia de escritura y dibujo precisa y sensible a la presión en la pantalla del iPad. El Apple Pencil se conecta de forma magnética y se carga inalámbricamente en el iPad. Es compatible con varios modelos de iPad, como el iPad Pro, iPad Air y iPad de sexta generación o posterior. Además de ser utilizado para tomar notas y dibujar, el Apple Pencil es compatible con una amplia gama de aplicaciones creativas y de productividad, brindando una herramienta versátil para profesionales, estudiantes y entusiastas del arte y el diseño.",
+        "precio":90000 ,
+        "categoria": "accesorios",
+        "id":14,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK0C2?wid=532&hei=582&fmt=png-alpha&.v=1564075356758"
+
+    },
+    {
+        "nombre": "Apple Whatch Bands",
+        "descripcion":"Las Apple Watch Bands, o correas de reloj de Apple, son accesorios intercambiables diseñados para los modelos de Apple Watch. Disponibles en diversos estilos, materiales y colores, permiten personalizar el aspecto y la comodidad del reloj. Hay opciones como correas de silicona, deportivas, de nylon, de cuero y metálicas, cada una con características únicas como resistencia al agua o elegancia. También existen correas de terceros compatibles. Las correas se pueden cambiar fácilmente gracias a un mecanismo de enganche, lo que brinda la posibilidad de adaptar el reloj a diferentes ocasiones y estilos de forma rápida y sencilla.",
+        "precio": 70000,
+        "categoria": "accesorios",
+        "id":15,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ML763?wid=532&hei=582&fmt=png-alpha&.v=1630015276000"
+
+    },
+    {
+        "nombre": "Airpods",
+        "descripcion":"Los AirPods son auriculares inalámbricos de Apple que ofrecen una experiencia de audio sin cables. Con un diseño compacto, se conectan automáticamente a dispositivos Apple mediante Bluetooth. Los AirPods incluyen sensores que pausan la reproducción al quitarlos y micrófonos para llamadas y comandos de voz con Siri. La última generación ofrece opciones como estuche de carga inalámbrica y cancelación activa de ruido. Proporcionan una calidad de sonido nítida, fácil conectividad con dispositivos Apple y una duración de batería adecuada. Los AirPods son una opción popular para aquellos que buscan auriculares inalámbricos cómodos y confiables dentro del ecosistema Apple.",
+        "precio": 180000,
+        "categoria": "accesorios",
+        "id":16,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=532&hei=582&fmt=png-alpha&.v=1632861342000"
+
+    },
+    {
+        "nombre": "Airtag",
+        "descripcion":"Los AirTags de Apple son dispositivos de seguimiento diseñados para localizar objetos personales perdidos. Se conectan a través de la aplicación Find My en dispositivos Apple. Utilizando tecnología Bluetooth, los AirTags te permiten rastrear la ubicación de tus pertenencias en el mapa de la aplicación. También cuentan con una función de sonido para ayudarte a encontrar objetos extraviados. Los AirTags tienen un diseño compacto y resistente al agua, y se pueden personalizar con accesorios. Son una herramienta útil para mantener tus objetos seguros y localizarlos fácilmente en caso de pérdida.",
+        "precio": 40000,
+        "categoria": "accesorios",
+        "id":17,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-single-select-202104?wid=532&hei=582&fmt=png-alpha&.v=1617761671000"
+
+    },
+    {
+        "nombre": "Power adapter",
+        "descripcion":"El Power Adapter de Apple es un dispositivo de carga diseñado para cargar productos de Apple. Viene en diferentes modelos y capacidades de carga, adaptados a los diferentes dispositivos de la marca. Proporciona la energía necesaria para cargar iPhones, iPads y MacBooks de manera segura y eficiente. Los adaptadores de corriente USB estándar se utilizan para cargar iPhones, mientras que los MacBooks requieren adaptadores de corriente específicos con diferentes capacidades de potencia. Apple ha introducido adaptadores más eficientes y compatibles con la carga rápida en algunos modelos. Los Power Adapters se venden por separado o se incluyen con los dispositivos, dependiendo del modelo y la región.",
+        "precio": 45000,
+        "categoria": "accesorios",
+        "id":18,
+        "stock": 5,
+        "imagen": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU7T2_GEO_US?wid=532&hei=582&fmt=png-alpha&.v=1542406417329"
+
+    }
+]
+    
