@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Products from "../components/Products"
+import Products from "../components/Products/index"
 import Filters from "../components/Products/Filters"
 import { useCustomContext } from "../context/ContextProvider";
 
