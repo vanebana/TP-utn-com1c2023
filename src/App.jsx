@@ -7,6 +7,8 @@ import HomePage from './pages/Homepage'
 import Contact from './pages/Contacto'
 import Detail from './pages/Detail'
 import NotFound from './pages/NotFound'
+import Footer from './components/Footer'
+
 
 
 function App() {
@@ -25,7 +27,7 @@ function App() {
       </Routes>
      
       </main>
-
+      <Footer/>
     </>
   )
 }

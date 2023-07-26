@@ -5,23 +5,15 @@ import { useCustomContext } from "../context/ContextProvider";
 
 
 function Homepage() {
-  const { products } = useCustomContext()
-  const allCategories = products.map(products => products.categoria)
-  const categories = []
-   allCategories.forEach(element => {
-      if (!categories.includes(element)) {
-          categories.push(element)
-
-      }
-  });
-  const listPrice = products.map(products => products.precio)
-  const precioMayor = Math.max(...listPrice)
+  const { products, getMaxPrice, getCategories } = useCustomContext()
+  const categories = getCategories()
+  
   const [filters , setFilters] = useState(
     {
       category: categories,
       price:{
         priceFrom: 0,
-        priceTo: precioMayor
+        priceTo: getMaxPrice()
       }
     }
   )

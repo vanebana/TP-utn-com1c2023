@@ -1,27 +1,26 @@
-import Logo from "./Logo" 
+import Logo from "./Logo"
 import Search from "./Search"
 import Navbar from "./Navbar"
 
 function Header() {
 
-    return (
-      <>
+  return (
+    <>
+
+      <header>
         
-        <header>
-            <nav>
-            <Logo />
-            </nav>
+        <Logo />
+
         <Search />
         <Navbar />
-        
-        </header>
-       
-         
-        
-      
-      </>
-    )
-  }
-  
-  export default Header
-  
+
+      </header>
+
+
+
+
+    </>
+  )
+}
+
+export default Header

@@ -13,9 +13,28 @@ const ContextProvider = ({children}) => {
     const removeProduct = (id) =>{
         setCart(cart.filter(producto => producto.id !== Number(id)))
     }
+    const getMaxPrice = () => {
+        const listPrice = products.map(products => products.precio)
+        return Math.max(...listPrice)
+    }
+    const getCategories = () => {
+        const allCategories = products.map(products => products.categoria)
+        const categories = []
+        allCategories.forEach(element => {
+            if (!categories.includes(element)) {
+                categories.push(element)
+
+            }
+        });
+
+        return categories;
+    }
 
     /* El estado del array de objetos del carrito */
     const [cart, setCart] = useState([])
+    const restartCart = () =>{
+        setCart([])
+    }
 
     const isInCart = (id) => cart.some(producto => producto.id === Number(id))
     
@@ -39,7 +58,7 @@ const ContextProvider = ({children}) => {
     }
     
     return (
-        <Context.Provider value={{ products, getProductById, cart, addProductCart, isInCart, getProductCartById, getTotal, removeProduct}}>
+        <Context.Provider value={{ products, getProductById, cart, addProductCart, isInCart, getProductCartById, getTotal, removeProduct, restartCart, getMaxPrice, getCategories }}>
             {children}
         </Context.Provider>
     )

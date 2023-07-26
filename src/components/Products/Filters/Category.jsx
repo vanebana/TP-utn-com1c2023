@@ -25,10 +25,10 @@ function CategoryFilter({ filters, setFilters, categories }) {
     return (
         <>
             <div className="filtros">
-                <h2>Filtro categoria </h2>
-                <div >
+                <h2>Filtrar por categoría </h2>
+                <div className="categoryFilters" >
                     {categories.map((category) => (
-                        <label key={category}>
+                        <label key={category} className="checkboxLabel">
                             <input
                                 type="checkbox"
                                 value={category}
